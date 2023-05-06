@@ -3,13 +3,12 @@ I'm Pinkal Sanoria, a seasoned software engineer with a focus on Python Full Sta
 
 My expertise lies in Python, Django, FastAPI, Django REST Framework,Flask,PostgreSQL,MongoDB Git, and Linux. I am well-versed in developing REST APIs using Django and have a proven track record in Full-Stack Development.
 
-Feel free to reach out to me at pinkalsanoria123@gmail.com to discuss any projects or collaborations.
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pinkal_3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pinkal_3" height="30" width="40" /></a>
+  Feel free to reach out to me at pinkalsanoria123@gmail.com to discuss any projects or collaborations.
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mrpinkal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mrpinkal/" height="30" width="40" /></a>
+  <a href="https://twitter.com/pinkal_3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pinkal_3" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/pinkal_sanoria/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pinkal_sanoria/" height="30" width="40" /></a>
 <a href="https://medium.com/@pinkalsanoria123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pinkalsanoria123" height="30" width="40" /></a>
 </p>
