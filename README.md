@@ -3,8 +3,7 @@ I'm Pinkal Sanoria, a seasoned software engineer with a focus on Python Full Sta
 
 My expertise lies in Python, Django, FastAPI, Django REST Framework,Flask,PostgreSQL,MongoDB Git, and Linux. I am well-versed in developing REST APIs using Django and have a proven track record in Full-Stack Development.
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pinkal-sanoria&label=Profile%20views&color=0e75b6&style=flat" alt="pinkal-sanoria" /> </p>
+Feel free to reach out to me at pinkalsanoria123@gmail.com to discuss any projects or collaborations.
 
 <p align="left"> <a href="https://twitter.com/pinkal_3" target="blank"><img src="https://img.shields.io/twitter/follow/pinkal_3?logo=twitter&style=for-the-badge" alt="pinkal_3" /></a> </p>
 
