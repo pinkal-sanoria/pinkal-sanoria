@@ -5,8 +5,8 @@ My expertise lies in Python, Django, FastAPI, Django REST Framework,Flask,Postgr
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  Feel free to reach out to me at pinkalsanoria123@gmail.com to discuss any projects or collaborations.
+Feel free to reach out to me at pinkalsanoria123@gmail.com to discuss any projects or collaborations.
+<p align="left">  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mrpinkal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mrpinkal/" height="30" width="40" /></a>
   <a href="https://twitter.com/pinkal_3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pinkal_3" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/pinkal_sanoria/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pinkal_sanoria/" height="30" width="40" /></a>
