@@ -1,5 +1,5 @@
 # Hi there,welcome to my GitHub profile! 
-I'm Pinkal Sanoria, a seasoned software engineer with a focus on Python and Django Full Stack Development. I hold a Bachelor's Degree in Computer Application and have a strong grasp of programming principles and concepts.
+I'm Pinkal Sanoria, a seasoned software engineer with a focus on Python Full Stack Development. I hold a Bachelor's Degree in Computer Application and have a strong grasp of programming principles and concepts.
 
 My expertise lies in Python, Django, FastAPI, Django REST Framework, PostgreSQL, Git, and Linux. I am well-versed in developing REST APIs using Django and have a proven track record in Full-Stack Development.
 
