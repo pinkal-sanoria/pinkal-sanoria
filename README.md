@@ -5,7 +5,6 @@ My expertise lies in Python, Django, FastAPI, Django REST Framework,Flask,Postgr
 
 Feel free to reach out to me at pinkalsanoria123@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/mrpinkal/ to discuss any projects or collaborations.
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinkal-sanoria&label=Profile%20views&color=0e75b6&style=flat" alt="pinkal-sanoria" /> </p>
 
