@@ -5,7 +5,6 @@ My expertise lies in Python, Django, FastAPI, Django REST Framework,Flask,Postgr
 
 Feel free to reach out to me at pinkalsanoria123@gmail.com to discuss any projects or collaborations.
 
-<p align="left"> <a href="https://twitter.com/pinkal_3" target="blank"><img src="https://img.shields.io/twitter/follow/pinkal_3?logo=twitter&style=for-the-badge" alt="pinkal_3" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
